@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x_ini\ y_ini\ vx_ini\ vy_ini\ mu_ini\ r_ini\ color_ini
+comment0.target=particle(double,\ double,\ double,\ double,\ double,\ double,\ java.awt.Color)
+comment1.params=other\ dt
+comment1.target=void\ gravitate(particle,\ double)
+comment2.params=other
+comment2.target=boolean\ collided(particle)
+comment3.params=dt\ maxTrailLength
+comment3.target=void\ iterate(double,\ int)
+comment4.params=
+comment4.target=void\ resetAccel()
+numComments=5

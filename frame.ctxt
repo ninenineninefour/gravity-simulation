@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=width_ini\ height_ini\ fileName
+comment0.target=frame(int,\ int,\ java.lang.String)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
